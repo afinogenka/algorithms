@@ -38,7 +38,6 @@ def quick_sort(arr, left, right):
 
 
 def main():
-    import time
     import timeit
 
     import numpy as np
@@ -68,6 +67,5 @@ def main():
     print('Sorted 2D QS', arr)
 
 
-
-if (__name__ == '__main__'):
+if __name__ == '__main__':
     main()
