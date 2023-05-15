@@ -1,6 +1,6 @@
 # create array from user input
 
-rows = int(input('enter number of rows:'))
+rows = int(input('enter number of rows in array:'))
 columns = int(input('enter number of columns:'))
 arr = []
 
